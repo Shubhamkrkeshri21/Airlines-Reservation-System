@@ -1,8 +1,11 @@
 1.Project Overview:
-The Airline Reservation System is a software application developed using C++ that allows users to book flights, order food, book taxi services, and manage reservations. It features a user-friendly interface for both customers and administrators, facilitating seamless interactions for flight reservations and additional services.
+  The Airline Reservation System is a software application developed using C++ that allows users to book flights, order food, book taxi services, and manage 
+  reservations. It features a user-friendly interface for both customers and administrators, facilitating seamless interactions for flight reservations and additional 
+  services.
+  
 
-Objective:
-The primary objective of this project is to create a comprehensive system that manages flight reservations efficiently while providing additional services like food ordering and taxi bookings. The system aims to enhance user experience by offering a robust platform for booking and managing flights.
+  The primary objective of this project is to create a comprehensive system that manages flight reservations efficiently while providing additional services like food 
+  ordering and taxi bookings. The system aims to enhance user experience by offering a robust platform for booking and managing flights.
 
 2. System Design
 Architecture:
