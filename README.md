@@ -12,13 +12,21 @@ System Design
 The system is designed using a modular approach with distinct classes handling various functionalities:
 
 Management Class: Initializes and displays the main menu.
+
 Details Class: Manages customer details.
+
 Registration Class: Handles flight bookings, food ordering, taxi services, and other functionalities.
+
 UserAuth Class: Manages user registration and authentication.
+
 Classes and Their Responsibilities:
+
 Management Class: Manages the main menu interface and user navigation.
+
 Details Class: Collects and stores customer details and manages the display of these details.
+
 Registration Class: Handles flight selection, food, and taxi services, and calculates final charges.
+
 User AUTH Class: Manages user authentication, including registration and login processes.
 
 Implementation Details
